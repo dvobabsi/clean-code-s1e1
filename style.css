@@ -148,7 +148,7 @@ li > input[type="text"] {
 /* Edit Task */
 
 li input[type=text] {
-  display: none
+  display: none;
 }
 
 .edit-mode input[type=text] {
